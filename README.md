@@ -1,5 +1,5 @@
 # dev.zakwest.tech
-A vagrant setup for development of www.zakwest.tech
+A vagrant setup for development of www.zakwest.co.uk
 
 
 ## Tools
@@ -14,11 +14,11 @@ This repo contains the configs needed to create and provision a vagrant VM.
 ```bash
     git clone https://github.com/zwrawr/dev.zakwest.tech.git dev.zakwest.tech
 ```
-### www.zakwest.tech
-Fork the [www.zakwest.tech](https://github.com/zwrawr/www.zakwest.tech.git) repo, which contains 
+### www.zakwest.co.uk
+Fork the [www.zakwest.co.uk](https://github.com/zwrawr/www.zakwest.co.uk) repo, which contains 
 ```bash
     cd dev.zakwest.tech/
-    git clone https://github.com/<your-username>/www.zakwest.tech.git www.zakwest.tech
+    git clone https://github.com/<your-username>/www.zakwest.co.uk.git www.zakwest.tech
 ```
 
 ## Using vagrant
