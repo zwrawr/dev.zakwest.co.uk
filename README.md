@@ -9,7 +9,7 @@ You need these tools installed to be able to use this project.
 * Vagrant: http://vagrantup.com
 
 ## Downloading
-### dev.zakwest.tech
+### dev.zakwest.co.uk
 This repo contains the configs needed to create and provision a vagrant VM.
 ```bash
     git clone https://github.com/zwrawr/dev.zakwest.tech.git dev.zakwest.tech
